@@ -6,7 +6,7 @@ General guidelines:
 
 1.- Do not use analysis code as a black box. Look at the raw data and processed data. 
 
-2.- Use scripts as a starting point. E.g., event detection scripts may require parameters to be adjusted for different brain regions, subjects, etc.
+2.- Use scripts as a starting point and adjust as needed.
 
 
 periEvHistogram :  calculate the average peri-event histogram in spikes/sec given the spike times and event times 
